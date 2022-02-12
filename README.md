@@ -1,2 +1,2 @@
 # calculator
-Basis calculator with operators to Add, Subtract, Multiply, and Divide
+Basic calculator with operators to Add, Subtract, Multiply, and Divide
